@@ -2,7 +2,7 @@
 
 ![Proof HTML job](https://github.com/bnhassin01/demo-repository/actions/runs/5366447030/jobs/9735884155)
 
-# Welcome to your organization's demo respository #1
+# Welcome to your organization's [demo respository](https://github.com/bnhassin01/demo-repository/tree/bnhassin-patch-1#welcome-to-your-organizations-demo-respository-1)
 
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
