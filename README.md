@@ -11,3 +11,6 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 
 **[Demo Repository on PR](https://github.com/bnhassin01/demo-repository/pull/2)**
+
+
+**[Conversation updated](https://github.com/bnhassin01/demo-repository/issues/3)**
